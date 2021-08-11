@@ -1,0 +1,6 @@
+class testClass {
+    int testVar;
+
+    
+
+}
