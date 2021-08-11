@@ -12,7 +12,9 @@ Classes:
 #### Getters / Setters
 #### Method Overloading
 
-tester
+Let's follow and make notes! 
+
+
 
 
 
