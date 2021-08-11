@@ -7,8 +7,11 @@ public class lamp {
 
     boolean isOn;
 
+    // and we also add methods that will change the state of the lamp.
 
+    public void turLampOn(){};
 
+    public void turLampoff(){};
 
 
     
