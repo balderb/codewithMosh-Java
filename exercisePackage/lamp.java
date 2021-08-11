@@ -1,3 +1,4 @@
+package exercisePackage;
 public class lamp {
     
     // think of a lamp: what states are we going to need?
@@ -16,5 +17,5 @@ public class lamp {
     public void turLampoff(){};
 
 
-    
+
 }
