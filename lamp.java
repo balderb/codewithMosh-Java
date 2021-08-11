@@ -9,6 +9,8 @@ public class lamp {
 
     // and we also add methods that will change the state of the lamp.
 
+    // void means we do not have any values returned by using this method
+
     public void turLampOn(){};
 
     public void turLampoff(){};
