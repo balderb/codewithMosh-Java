@@ -17,3 +17,7 @@ public class car {
     public void changeGear()
 
 }
+
+// this car class as it looks here is a blueprint for objects.
+// and an object is an instance of a class
+// based on this template, on this class, we can make many instances of cars: (car 1, car 2, car 3, car 4, etc...) 
