@@ -20,4 +20,12 @@ public class car {
 
 // this car class as it looks here is a blueprint for objects.
 // and an object is an instance of a class
-// based on this template, on this class, we can make many instances of cars: (car 1, car 2, car 3, car 4, etc...) 
+// based on this template, on this class, we can make many instances of cars: (car 1, car 2, car 3, car 4, etc...)
+
+update:
+
+// each of these instances will look like each other but they will definately have different spacing in memory, so they are independent of each other.
+// therefore: different instances can have separate states
+
+
+

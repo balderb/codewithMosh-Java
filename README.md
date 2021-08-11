@@ -21,6 +21,10 @@ those two are fundamentally different
 
 Look at the example class car.java inside the classes package.
 
+## keywords:
+
+UML: unified modeling language - basically the language we use to visualize classes and their state and behavior.
+
 
 
 
