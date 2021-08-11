@@ -2,13 +2,13 @@
 
 ## Start of personal coding notes during this course "codingwithMosh"
 
-### overview of this first class i'm documenting: "classes" 
+### Overview of this first class i'm documenting: "classes" 
 
 Classes:
 
-Encapsulation
-Abstraction
-Constructors
-getters / setters
-method overloading
+#### Encapsulation
+#### Abstraction
+#### Constructors
+#### Getters / Setters
+#### Method Overloading
 
