@@ -1,3 +1,4 @@
+package exercisePackage;
 public class tv {
     // states: current volumne, channel, turned on/turned off
 
