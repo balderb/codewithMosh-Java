@@ -14,6 +14,14 @@ Classes:
 
 Let's follow and make notes! 
 
+class = a blueprint for creating objects
+object = an instance of a class
+
+those two are fundamentally different
+
+Look at the example class car.java inside the classes package.
+
+
 
 
 
