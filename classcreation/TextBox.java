@@ -25,4 +25,6 @@ public class TextBox {
 }
 
 // technically, we don't use fields with the access modifier as "public" -> but we make it private and get access to the fields using getters and (possibly) setters
+// in the next course we will look into creating "instances" of this class
+
 
