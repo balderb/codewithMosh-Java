@@ -4,7 +4,8 @@ public class Main {
     public static void main (String[] args){
         
         // let's create a new "instance" of the textbox class like this:
-        TextBox textBox1 = new TextBox();
+        var textBox1 = new TextBox();
+        textBox1.setText("Box 1");
     }
 }
 
