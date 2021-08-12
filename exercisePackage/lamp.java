@@ -1,5 +1,5 @@
 package exercisePackage;
-public class lamp {
+public class Lamp {
     
     // think of a lamp: what states are we going to need?
     // can be (1) on or (2) turned off
