@@ -8,6 +8,18 @@ public class TextBox {
 
     // let's add three members: (1) textfield, (2) , (3)
     
+    public str text; // field
+
+    // now let's define methods
+    // with void we do not return any values from this method
+
+    public void setText(String text){
+        this.text = text;
+    }
+
+    // clear the text of the textbox
+
+    public void clear()
 
 }
 
