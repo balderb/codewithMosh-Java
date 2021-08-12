@@ -1,7 +1,5 @@
 package objectcreation;
 
-import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;
-
 public class Main {
     public static void main (String[] args){
         
@@ -12,5 +10,10 @@ public class Main {
     }
 }
 
-// in java variables have a static type which means that, once we set the type of a variable, we cannot change it anymore.
+// in java variables have a static type which means that, 
+// once we set the type of a variable, we cannot change it anymore during runtime of our program.
+
+
+
+
 
