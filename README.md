@@ -30,6 +30,9 @@ UML: unified modeling language - basically the language we use to visualize clas
 car.java
 lamp.java
 
+inside of realsoftwareclass package we define a real usable software class like a "textbox". 
+
+
 
 
 
